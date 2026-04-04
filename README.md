@@ -3,6 +3,7 @@
 A curated list of awesome open-source initiatives frameworks, libraries, software and resources for diabetes research.
 
 - [Awesome Diabetes Software](#awesome-diabetes-software)
+- [Datasets]
 - [Diabetes Simulators](#diabetes-simulators)
     - [Type 1 Diabetes Simulators](#t1d-simulators)
     - [Type 2 Diabetes Simulators](#t2d-simulators)
@@ -22,6 +23,9 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 - [Contributing](#contributing)
 
 ---
+# Datasets
+
+* [Review of Publicly available Type 1 Diabetes Datasets with CGM and CSII data](https://github.com/janvv/awesome_diabetes_cgm_csii_datasets/) 
 
 # Diabetes Simulators 
 
@@ -37,6 +41,7 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 ## Type 2 Diabetes Simulators
 
 * [AAU T2D](https://gitlab.com/aau-adapt-t2d/aau-t2d-simulator) - A type 2 diabetes simulator with web based GUI.
+  
 ## Discrete Events Simulators
 
 * [CarbMetSim](https://github.com/mukulgoyalmke/CarbMetSim) - A discrete event simulator for tracking blood glucose level based on carbodydrate metabolism in human body.

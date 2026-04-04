@@ -3,7 +3,7 @@
 A curated list of awesome open-source initiatives frameworks, libraries, software and resources for diabetes research.
 
 - [Awesome Diabetes Software](#awesome-diabetes-software)
-- [Datasets]
+- [Datasets](#datasets)
 - [Diabetes Simulators](#diabetes-simulators)
     - [Type 1 Diabetes Simulators](#t1d-simulators)
     - [Type 2 Diabetes Simulators](#t2d-simulators)
